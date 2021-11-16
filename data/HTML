@@ -1,7 +1,0 @@
-<img src="coding.jpg" width='50%'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7T7r_oSp0SE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p>
-<a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank" title="html5 speicification">Hypertext Markup Language (HTML)</a> is the standard markup language for <strong>creating <u>web</u> pages</strong> and web applications.
-</p>
-<p style="margin-top:45px;">This tutorial shows you how to add a line break in HTML. By default, browsers ignore many formatting keystrokes that we take for granted. Examples include the “Enter” and “Tab” keys and multiple uses of the spacebar. To accomplish the same tasks in HTML, you use page formatting tags.
